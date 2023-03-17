@@ -1,16 +1,28 @@
-### Hi there 👋
+# HARO Labs, desarrollo de Software
 
-<!--
-**HaroLabsSoporte/HaroLabsSoporte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_Empresa joven dedicada al desarrollo de software, asesorias en programacion, videos de programaciòn y trabajando activamente en el sector TI Bancario en Mexico._
 
-Here are some ideas to get you started:
+## Autores ✒️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_Autores del proyecto:_
+
+* **blackopsdevs** - *Trabajo Inicial* - [blackopsdevs](https://github.com/blackopsdevs)
+* **HARO Labs** - *Patrocinador - Initial commit* - [HARO Labs]
+
+También puedes ser autor y contribuir contactame. 
+
+## Licencia 📄
+
+Este proyecto está bajo la Licencia libre, bajo reserva para distribucion educativa y para mejorar el desarrollo.
+
+## Contacto 📄
+
+* **HARO Labs** email - [haro.labs.soporte@gmail.com](https://mail.google.com/)
+* **HARO Labs** github - [github](https://github.com/HaroLabsSoporte/)
+* **HARO Labs** instagram - [instagram](https://www.instagram.com/)
+* **HARO Labs** twitter - [twitter](https://twitter.com/HaroLabs92810)
+* **HARO Labs** facebook - [facebook](https://www.facebook.com/profile.php?id=100090236862903)
+* **HARO Labs** tiktok - [tiktok](https://www.tiktok.com/@harolabssoporte)
+
+---
+⌨️ con ❤️ por [blackopsdevs](https://github.com/HaroLabsSoporte/) 😊 y HARO Labs.
