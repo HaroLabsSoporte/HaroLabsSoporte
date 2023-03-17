@@ -2,6 +2,13 @@
 
 _Empresa joven dedicada al desarrollo de software, asesorias en programacion, videos de programaciòn y trabajando activamente en el sector TI Bancario en Mexico._
 
+_Somos una empresa formada por socios profesionistas en Tecnología de la Información, Desarrollo de Software, Implementación de Aplicaciones y
+Bases de Datos._
+
+## Nuestros Valores ✒️
+
+_Calidad, Inovacion._
+
 ## Autores ✒️
 
 _Autores del proyecto:_
