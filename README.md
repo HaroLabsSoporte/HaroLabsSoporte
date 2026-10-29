@@ -30,7 +30,7 @@ Este proyecto está bajo la Licencia libre, bajo reserva para distribucion educa
 * **HARO Labs** twitter - [twitter](https://twitter.com/HaroLabs92810)
 * **HARO Labs** facebook - [facebook](https://www.facebook.com/profile.php?id=100090236862903)
 * **HARO Labs** tiktok - [tiktok](https://www.tiktok.com/@harolabssoporte)
-* **HARO Labs contribution** Paypal - [paypal](www.paypal.com/donate/?hosted_button_id=RKJJW9WAM533S)
+* **HARO Labs contribution** Paypal - [404]()
 
 ---
 ⌨️ con ❤️ por [blackopsdevs](https://github.com/HaroLabsSoporte/) 😊 y HARO Labs.
