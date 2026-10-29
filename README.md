@@ -30,7 +30,7 @@ Este proyecto está bajo la Licencia libre, bajo reserva para distribucion educa
 * **HARO Labs** twitter - [twitter](https://twitter.com/HaroLabs92810)
 * **HARO Labs** facebook - [facebook](https://www.facebook.com/profile.php?id=100090236862903)
 * **HARO Labs** tiktok - [tiktok](https://www.tiktok.com/@harolabssoporte)
-* **HARO Labs contribution** Paypal - [paypal]([www.paypal.com/donate/?hosted_button_id=RKJJW9WAM533S](https://www.paypal.com/donate/?hosted_button_id=RKJJW9WAM533S&utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAcGRvZgJzcnRjBmFwcF9pZA85MzY2MTk3NDMzOTI0NTkAAae1NKSeBRkkDCqnHsPKJidOXib-JZo_b1Sv_7F-ucpvO1WbBtUbcx0ajotb5A_aem_we3pwe81Jgk_ceXIiSmXAw))
+* **HARO Labs contribution** Paypal - [paypal](www.paypal.com/donate/?hosted_button_id=RKJJW9WAM533S)
 
 ---
 ⌨️ con ❤️ por [blackopsdevs](https://github.com/HaroLabsSoporte/) 😊 y HARO Labs.
